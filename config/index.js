@@ -20,7 +20,7 @@ export const config = {
    *    // 想要发送的人的名字
    *    name: "宝贝",
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-   *    id: "9ee94649f03250a932bcf6ea66b18d99",
+   *    id: "oS8Nj6m2AX0IG-zk_KREe1DfinrI",
    *    // 你想对他发送的模板消息的模板ID
    *    useTemplateId: "cimmbmJ7urJyWU_NArSsZZl_1kVHMB-fU_BHleSHCqw",
    *    // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
@@ -31,42 +31,42 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "老婆0",
+      name: "宝贝",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ohxOO6VskY2v40Kuf5ywIZVRM3puXhk",
+      id: "oS8Nj6m2AX0IG-zk_KREe1DfinrI",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "Wue80GrtY1nAi5a4tam4FDxZF59WNx9pwcBc06LMpANnu8",
+      useTemplateId: "cimmbmJ7urJyWU_NArSsZZl_1kVHMB-fU_BHleSHCqw",
       // 所在省份
-      province: "广东",
+      province: "江西",
       // 所在城市
-      city: "肇庆",
+      city: "南昌",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://wangxinleo.cn"
     }, 
     {
-      name: "老婆1", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
+      name: "宝贝", 
+      id: "oS8Nj6m2AX0IG-zk_KREe1DfinrI",
+      useTemplateId: "cimmbmJ7urJyWU_NArSsZZl_1kVHMB-fU_BHleSHCqw",
+      province: "江西",
+      city: "南昌",
       openUrl: "https://wangxinleo.cn"
     }, 
-    {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
-    }, 
-    {
-      name: "老婆3", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
-    }, 
+//     {
+//       name: "老婆2",
+//       id: "",
+//       useTemplateId: "",
+//       province: "",
+//       city: "",
+//       openUrl: "https://wangxinleo.cn"
+//     }, 
+//     {
+//       name: "老婆3", 
+//       id: "",
+//       useTemplateId: "",
+//       province: "",
+//       city: "",
+//       openUrl: "https://wangxinleo.cn"
+//     }, 
   ],
 
   /**
@@ -82,7 +82,7 @@ export const config = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ohx12OO6VskYv03Kuf43ywIZVRM4puXhk",
+      id: "oS8Nj6m2AX0IG-zk_KREe1DfinrI",
     }, 
   ],
     
@@ -106,10 +106,10 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "老婆", "year": "1996", "date": "09-02"},
-    {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
-    {"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
-    {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
+    {"type": "生日", "name": "宝贝", "year": "2001", "date": "10-01"},
+//     {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
+    {"type": "生日", "name": "宝宝", "year": "2001", "date": "03-21"},
+//     {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
   ],
 
   /**
@@ -127,11 +127,11 @@ export const config = {
     * */
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
-    {"keyword": "love_day", date: "2015-05-01"},
+    {"keyword": "love_day", date: "2021-12-02"},
     // 结婚纪念日
-    {"keyword": "marry_day", date: "2020-01-04"},
+//     {"keyword": "marry_day", date: "2020-01-04"},
     // 退伍日, 不用可以删掉
-    {"keyword": "ex_day", date: "2022-08-31"},
+//     {"keyword": "ex_day", date: "2022-08-31"},
     // sakana日
     // {"keyword": "sakana_day", date: "2022-01-06"},
     // ... 
