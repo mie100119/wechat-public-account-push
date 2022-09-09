@@ -45,20 +45,20 @@ export const config = {
     }, 
     {
       name: "宝贝", 
-      id: "oS8Nj6m2AX0IG-zk_KREe1DfinrI",
+      id: "oS8Nj6m2AX0IG-zk_KREe1DfinrI","oS8Nj6jTVJaxARh4xdZcLTJsME4I",
       useTemplateId: "cimmbmJ7urJyWU_NArSsZZl_1kVHMB-fU_BHleSHCqw",
       province: "江西",
       city: "南昌",
       openUrl: "https://v.douyin.com/6jDRbDa/"
     }, 
-    {
-      name: "宝贝", 
-      id: "oS8Nj6jTVJaxARh4xdZcLTJsME4I",
-      useTemplateId: "cimmbmJ7urJyWU_NArSsZZl_1kVHMB-fU_BHleSHCqw",
-      province: "江西",
-      city: "南昌",
-      openUrl: "https://v.douyin.com/6jDRbDa/"
-    }, 
+//     {
+//       name: "宝贝", 
+//       id: "oS8Nj6jTVJaxARh4xdZcLTJsME4I",
+//       useTemplateId: "cimmbmJ7urJyWU_NArSsZZl_1kVHMB-fU_BHleSHCqw",
+//       province: "江西",
+//       city: "南昌",
+//       openUrl: "https://v.douyin.com/6jDRbDa/"
+//     }, 
 //     {
 //       name: "老婆3", 
 //       id: "",
