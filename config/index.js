@@ -20,11 +20,11 @@ export const config = {
    *    // 想要发送的人的名字
    *    name: "宝贝",
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-   *    id: "oS8Nj6m2AX0IG-zk_KREe1DfinrI",
+   *    id: "oS8Nj6m2AX0IG-zk_KREe1DfinrI,oS8Nj6jTVJaxARh4xdZcLTJsME4I",
    *    // 你想对他发送的模板消息的模板ID
    *    useTemplateId: "cimmbmJ7urJyWU_NArSsZZl_1kVHMB-fU_BHleSHCqw",
    *    // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-   *    openUrl: "https://wangxinleo.cn"
+   *    openUrl: "https://v.douyin.com/6jDRbDa/"
    *   }, 
    * ]
    */
@@ -33,7 +33,7 @@ export const config = {
       // 想要发送的人的名字
       name: "宝贝",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oS8Nj6m2AX0IG-zk_KREe1DfinrI",
+      id: "oS8Nj6m2AX0IG-zk_KREe1DfinrI,oS8Nj6jTVJaxARh4xdZcLTJsME4I",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "cimmbmJ7urJyWU_NArSsZZl_1kVHMB-fU_BHleSHCqw",
       // 所在省份
@@ -41,11 +41,11 @@ export const config = {
       // 所在城市
       city: "南昌",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: "https://wangxinleo.cn"
+      openUrl: "https://v.douyin.com/6jDRbDa/"
     }, 
     {
       name: "宝贝", 
-      id: "oS8Nj6m2AX0IG-zk_KREe1DfinrI",
+      id: "oS8Nj6m2AX0IG-zk_KREe1DfinrI,oS8Nj6jTVJaxARh4xdZcLTJsME4I",
       useTemplateId: "cimmbmJ7urJyWU_NArSsZZl_1kVHMB-fU_BHleSHCqw",
       province: "江西",
       city: "南昌",
@@ -106,9 +106,9 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "宝贝", "year": "2001", "date": "10-01"},
+    {"type": "生日", "name": "我的宝贝", "year": "2001", "date": "10-01"},
 //     {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
-    {"type": "生日", "name": "宝宝", "year": "2001", "date": "03-21"},
+    {"type": "生日", "name": "我", "year": "2001", "date": "03-21"},
 //     {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
   ],
 
@@ -152,6 +152,12 @@ export const config = {
       "申请成为你爱里的永久居民。",
       "你很傻，你很笨，可我还是很羡慕你，因为你有我",
       "遇见你，就好像捡到了100斤的运气",
+      "三里清风三里路，步步风里步步你",
+      "以后我叫长安，你叫故里，因为长安归故里，故里有长安",
+      "你若属于我，那就只属于我一个人，我不喜欢分享",
+      "我有乖乖吃饭哦，你也要乖乖哦",
+      "今天很想你，就连碗里都是你",
+      "嗨，今天有没有想我？",
     ]},
   ],
 
