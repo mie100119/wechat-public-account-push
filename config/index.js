@@ -49,7 +49,7 @@ export const config = {
       useTemplateId: "cimmbmJ7urJyWU_NArSsZZl_1kVHMB-fU_BHleSHCqw",
       province: "江西",
       city: "南昌",
-      openUrl: "openUrl: "https://wangxinleo.cn""
+      openUrl: "https://v.douyin.com/6jDRbDa/"
     }, 
     {
       name: "宝贝", 
@@ -57,7 +57,7 @@ export const config = {
       useTemplateId: "cimmbmJ7urJyWU_NArSsZZl_1kVHMB-fU_BHleSHCqw",
       province: "江西",
       city: "南昌",
-      openUrl: "openUrl: "https://wangxinleo.cn""
+      openUrl: "https://v.douyin.com/6jDRbDa/"
     }, 
 //     {
 //       name: "老婆3", 
@@ -82,7 +82,7 @@ export const config = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oS8Nj6m2AX0IG-zk_KREe1DfinrI",
+      id: "oS8Nj6m2AX0IG-zk_KREe1DfinrI","oS8Nj6jTVJaxARh4xdZcLTJsME4I",
     }, 
   ],
     
